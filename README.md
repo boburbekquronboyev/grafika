@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -67,7 +67,7 @@ width: 100%;
 </section>
 <section id="Men bilan bog'laning">
 	<h2>Men bilan bog'laning</h2>
-	<p>Elektron pochta:<a href="https://kun.uz/news/2023/10/31/lionel-messi-8-karra-oltin-top-sohibi?q=%2Fuz%2Fnews%2F2023%2F10%2F31%2Flionel-messi-8-karra-oltin-top-sohibi"target=_blank>messi@gmail.com</a> </p>
+	<p>Elektron pochta:boburbekquronboyev01@gmail.com </p>
 </section>
 <footer>
 	<p>&copy;2024 Mening saytim</p>
